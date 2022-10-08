@@ -1,0 +1,7 @@
+post https://ngv9z8i3zd.execute-api.us-east-1.amazonaws.com/golang-serverless-api
+Content-Type: application/json
+
+{
+    "firstName": "John",
+    "lastName": "Public"
+}
