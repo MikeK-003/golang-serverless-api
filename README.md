@@ -5,7 +5,7 @@ This is my first project using golang and AWS, it aims to create a serverless ap
 This is just a demonstration of what I know in the 2 days I've been studying this.
 
 Reproducing the project requires 
-1. Visual Studio Code, with golang and REST Client.
+1. Visual Studio Code, with golang and the REST Client extension.
 2. An AWS account to utilize AWS API Gateway and AWS Lambda.
 
 I will write exactly how I ran this code:
